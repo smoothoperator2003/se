@@ -1,0 +1,29 @@
+AIM :- Write down the problem statement for a suggested system of relevance. 
+ 
+1) LIBRARY MANAGEMENT SYSTEM 
+PROBLEM STATEMENT:- 
+A college library management is a project that manages and stores books informaƟon electronically 
+according to student’s needs. The system helps both students and library manager to keep a constant track 
+of all the books available in the library. It allows both the admin and the student to search for the desired 
+book. It becomes necessary for colleges to keep a conƟnuous check on the books issued and returned and 
+even calculate fine. This task if carried out manually will be tedious and includes chances of mistakes. These 
+errors are avoided by allowing the system to keep track of informaƟon such as issue date, last date to 
+return the book and even fine informaƟon and thus there is no need to keep manual track of this 
+informaƟon which thereby avoids chances of mistakes.
+Thus, this system reduces manual work to a great extent allows smooth flow of library acƟviƟes by 
+removing chances of errors in the details.
+ 
+2) HOTEL MANAGEMENT SYSTEM 
+PROBLEM STATEMENT:- 
+A hotel system manages informaƟon about rooms, reservaƟons, customers, and customer billing. A 
+customer can make reservaƟons, change, or cancel reservaƟons through the hotel website. When a 
+customer makes reservaƟons, he/she needs to check if a room the customer want to reserve is available. If 
+a room is available, the customer enters his/her informaƟon to the system and receives a confirmaƟon 
+number from the web site. 
+A desk clerk checks in a customer with only a prior reservaƟon, change the checkout date, and check out 
+the customer. A room is assigned to the customer at check-in Ɵme and a customer billing record is created 
+at that Ɵme. The customer billing record is updated every night at 12. When a customer checks out, the 
+desk clerk prints the bill. A customer can pay by cash, check, or credit card when he/she checks out. 
+ Develop the use case diagram showing actors and use cases for the hotel system. 
+ Describe Reserve Room use case using the template for use case descripƟon.
+State your assumpƟons as needed.
